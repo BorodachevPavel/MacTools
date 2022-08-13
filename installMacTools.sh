@@ -8,7 +8,7 @@ brew install iterm2
 brew install tree
 brew install --cask sublime-text
 brew install obsidian
-brew install dbeaver
+brew install -- cask dbeaver-community
 brew install subethaedit
 brew install --cask firefox
 brew install --cask mos
