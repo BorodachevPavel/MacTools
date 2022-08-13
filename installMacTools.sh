@@ -15,3 +15,4 @@ brew install --cask mos
 brew install --cask karabiner-elements
 brew install --cask thefuck
 brew install spectacle
+brew install --cask yandex-disk
